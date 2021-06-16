@@ -1,2 +1,2 @@
 # ReactBasics
-My first experiment with reactjs
+First of many experiments in reactjs.
